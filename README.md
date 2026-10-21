@@ -11,6 +11,8 @@ https://chronarium.app/?utm_source=github-readme
 3. Drag Chronarium to Applications.
 4. Open Chronarium from Applications. Updates install automatically from there.
 
+If you open Chronarium from the disk image or anywhere else outside Applications, it will offer to move itself there.
+
 ## Requirements
 
 - macOS 13 or later
@@ -18,7 +20,7 @@ https://chronarium.app/?utm_source=github-readme
 
 ## Pricing
 
-- 4-week free trial, no card
+- 4-week free trial: needs an email address, no card
 - $39 a year
 - $79 once (lifetime)
 
